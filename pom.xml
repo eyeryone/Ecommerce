@@ -13,6 +13,8 @@
 
         <module>Ecommerce-common</module>
         <module>Ecommerce-mock</module>
+        <module>Ecommerce-offline</module>
+        <module>ecomerce-realline</module>
     </modules>
     <properties>
         <spark.version>2.1.1</spark.version>

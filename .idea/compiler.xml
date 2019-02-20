@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ecomerce-realline" />
         <module name="Ecommerce-mock" />
+        <module name="Ecommerce-offline" />
         <module name="Ecommercecommon" />
       </profile>
     </annotationProcessing>
